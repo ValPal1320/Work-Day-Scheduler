@@ -1,7 +1,7 @@
 # Work Day Scheduler
 
 ## Deployed Application
-
+https://valpal1320.github.io/Work-Scheduler/
 
 ## Description
 * When the planner is opened, the current day is displayed at the top.
