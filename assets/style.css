@@ -14,14 +14,14 @@ textarea{
   padding: 10px;
 }
 
-.lead {
+.date {
   font-size: 30px;
   font-family: serif;
 }
 
 .jumbotron {
   text-align: center;
-  background-color: rgb(157, 192, 253);
+  background-color: #d1e0b5;
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
